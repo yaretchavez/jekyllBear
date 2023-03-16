@@ -6,19 +6,26 @@ title: Hello
 
 ## An easy to use, minimal, text focused Jekyll theme
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+EN NUEESTRA PAGINA PUEDES ENCONTRAR  TODA ESTA VARIEDAD  DE TACOS HASTACON GUSTO AMIGA OAMIGO TE LO LLEBAMOS SIN COMPROMISO  HASTA TU DOMICILIO  PO " INBOX NENI" Y LA PAGINA DONDE PUEDES ENCONTRAR LA MAYORIA DE TODO NUESTRO MENU ES **TACOS LA MORENA EN FACCEBOK Y EN INSTAGRAM  COMO LA MORENA_LOS.MEJORES.TACOS **
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+Los tacos son uno de los alimentos más tradicionales, variados y populares que se encuentran a lo largo y ancho del país. Su origen se remonta a la época prehispánica, se dice que se utilizaban como plato, cuchara y comida; asimismo, se convirtió en la forma más sencilla de transportar la comida de un lado a otro.
 
-**Stop worrying about the style, focus on your writing.**
+**Estómago contento es igual a corazón contento. Lo sabemos, y como nuestro propósito es alegrar la vida de todos de aquí no se irá nadie sin su estómago satisfecho.**
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+- Al pastor
+- -taco vaquero
+suadero
+tacos de bistec
+tacos de costilla 
+tacos de chuleta ahumada 
+tacos de pollo
+tacos de  chorizo 
+tacos de arrachera
+tacos decampechano
+taco su per taco-señor taco
+tacos de arrachera al albañil
+tacos de 'pastor norteño
+tacos de bisteck encebollados  }
+tacos de arrachera encebollados
+tacos  arrachera encebollados
+Creando experiencias únicas para tu paladar. y con el  Sazón y sabor a un costo menor.  ademas  en la  La cocina donde cabemos todos.
